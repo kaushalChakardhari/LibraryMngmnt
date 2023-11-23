@@ -1,4 +1,4 @@
-<img width="1236" alt="Screenshot 2023-11-23 at 3 49 19 PM" src="https://github.com/kaushalChakardhari/LibraryMngmnt/assets/150014614/d141d05c-0c1a-4c76-91dc-e6d65f260193">-create a "Library Management System" in which there are two schema one is "Book" and another one is "User".
+-create a "Library Management System" in which there are two schema one is "Book" and another one is "User".
 
 -"Book" Schema stores the information related to book like :
    ->title
